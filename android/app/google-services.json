@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549338574947",
+    "project_id": "my-pacivic",
+    "storage_bucket": "my-pacivic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549338574947:android:c230fbe01d7788940ec856",
+        "android_client_info": {
+          "package_name": "com.app.pacivic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549338574947-vg0c6q5v12m5f7vh2gd8trs9kkm5uno5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmX79a8004_cecgwAzbfudbsMOg3VC1xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549338574947-vg0c6q5v12m5f7vh2gd8trs9kkm5uno5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
